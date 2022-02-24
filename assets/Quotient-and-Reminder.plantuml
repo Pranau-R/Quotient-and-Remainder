@@ -1,0 +1,10 @@
+@startuml
+
+start
+:Get Divident, Divisor, Quotient, Remainder;
+:Quotient = Divident/Divisor
+Remainder = Dividend % Divisor;
+:Print Quotient and Remainder;
+end
+
+@enduml
