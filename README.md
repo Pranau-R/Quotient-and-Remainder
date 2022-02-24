@@ -6,3 +6,8 @@ It consist of folders below:
 - doc
 - issue
 - src
+- assets
+
+The following is the flow chart:
+
+![Quotient and Reminder](assets/Quotient-and-Reminder.png)
