@@ -5,3 +5,4 @@ It consist of folders below:
 - app
 - doc
 - issue
+- src
