@@ -1,10 +1,12 @@
 @startuml
 
 start
-:Get Divident, Divisor, Quotient, Remainder;
-:Quotient = Divident/Divisor
-Remainder = Dividend % Divisor;
-:Print Quotient and Remainder;
+
+:Declare variables for Divident, Divisor, Quotient and Remainder;
+:Get Divident, Divisor from user;
+:Quotient <- Divident / Divisor
+Remainder <- Dividend % Divisor;
+:Display Quotient and Remainder;
 end
 
 @enduml
